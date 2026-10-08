@@ -1,0 +1,23 @@
+{
+    "best_validation_accuracy": 0.8170525127046866,
+    "test_accuracy": 0.8136986301369863,
+    "test_loss": 0.4431366152142825,
+    "precision_damaged": 0.7941567065073041,
+    "recall_damaged": 0.8363636363636363,
+    "f1_damaged": 0.8147138964577656,
+    "precision_undamaged": 0.8345120226308345,
+    "recall_undamaged": 0.7919463087248322,
+    "f1_undamaged": 0.8126721763085399,
+    "confusion_matrix": [
+        [
+            590,
+            155
+        ],
+        [
+            117,
+            598
+        ]
+    ],
+    "misclassified_images": 272,
+    "false_negatives": 117
+}
